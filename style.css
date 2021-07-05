@@ -37,3 +37,9 @@ section{
 .center{
     text-align: center;
 }
+.column{
+    padding-left: 5%;
+}
+.column img{
+    width: 33.33%;
+}
