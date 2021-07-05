@@ -36,10 +36,20 @@ section{
 }
 .center{
     text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 2%;
 }
 .column{
-    padding-left: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 33.33%;
+    box-shadow: 10px 10px 30px rgb(197, 195, 195);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 20px;
 }
 .column img{
-    width: 33.33%;
+    padding: 3%;
+    width: 90%;
 }
