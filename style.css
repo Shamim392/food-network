@@ -69,13 +69,33 @@ section{
     padding: 3%;
     width: 95%;
 }
+.second-column{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    width: 33.33%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.second-column img{
+    padding-left: 25%;
+    width:50%;
+}
 .recipie{
     padding-bottom: 3%;
+}
+.heading-width{
+    padding-top: 12%;
+}
+.our-team{
+    padding-top: 4%;
+    padding-bottom: 1%;
 }
 footer{
     padding-top: 3%;
     text-align: center;
-    height: 200px;
+    height: 180px;
     background-color: black;
 }
 footer p{
