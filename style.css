@@ -14,6 +14,9 @@ p{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 30px;
+}
 section{
     display: flex;
 }
@@ -55,6 +58,7 @@ section{
 .column{
     padding-left: 3%;
     padding-right: 3%;
+    padding-top: 1%;
     width: 33.33%;
     box-shadow: 10px 10px 30px rgb(197, 195, 195);
     margin-left: 3%;
@@ -63,5 +67,18 @@ section{
 }
 .column img{
     padding: 3%;
-    width: 90%;
+    width: 95%;
+}
+.recipie{
+    padding-bottom: 3%;
+}
+footer{
+    padding-top: 3%;
+    text-align: center;
+    height: 200px;
+    background-color: black;
+}
+footer p{
+    padding-left: 25%;
+    color:blanchedalmond;
 }
